@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GPCRs | Academic</title>
+    <link>https://wheelern.github.io/tags/gpcrs/</link>
+      <atom:link href="https://wheelern.github.io/tags/gpcrs/index.xml" rel="self" type="application/rss+xml" />
+    <description>GPCRs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©NJ Wheeler 2020</copyright><lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wheelern.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>GPCRs</title>
+      <link>https://wheelern.github.io/tags/gpcrs/</link>
+    </image>
+    
+    <item>
+      <title>Genetic and functional diversification of chemosensory pathway receptors in mosquito-borne filarial nematodes</title>
+      <link>https://wheelern.github.io/publication/wheeler2020/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://wheelern.github.io/publication/wheeler2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helminth GPCRs</title>
+      <link>https://wheelern.github.io/project/gpcrs/</link>
+      <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://wheelern.github.io/project/gpcrs/</guid>
+      <description>&lt;p&gt;Almost all anthelmintics (drugs used to treat helminth infections in humans and animals) target ion channels (see this 
+&lt;a href=&#34;http://www.wormbook.org/chapters/www_anthelminticdrugs/anthelminticdrugs.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WormBook article&lt;/a&gt; for more information on anthelmintics and their targets). Ion channels are often fast acting signal transduction channels that operate at the neuromuscular junction and are often activated by neurotransmitters such as acetylcholine, serotonin, dopamine, among others.&lt;/p&gt;
+&lt;p&gt;One motiviating hypothesis that we have is that the next-generation of anthelmintics will target GPCRs instead of ion channels. Currently, only two drugs, 
+&lt;a href=&#34;https://www.cell.com/trends/parasitology/pdf/S1471-4922%2818%2930009-6.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;praziquantel&lt;/a&gt; and 
+&lt;a href=&#34;https://link.springer.com/article/10.1007%2Fs00436-005-1438-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;emodepside&lt;/a&gt;, &lt;em&gt;may&lt;/em&gt; target G protein-coupled receptors (GPCRs), but they likely aren&amp;rsquo;t their only targets. Unfortunately, there hasn&amp;rsquo;t been a novel anthelmintic developed in decades, and we think a focus should be given to new receptor targets like GPCRs. GPCRs are classically believed to be more slow acting than ion channels and function in sensitive neuromodulation, but that isn&amp;rsquo;t necessarily true for helminths. Neuropeptides can cause direct muscular contraction through a GPCR, and so can neurotransmitters [Day and Ribeiro citations].&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tissue-specific transcriptome analyses provide new insights into GPCR signalling in adult Schistosoma mansoni</title>
+      <link>https://wheelern.github.io/publication/hahnel2018/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://wheelern.github.io/publication/hahnel2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel RNAi-mediated approach to G protein-coupled receptor deorphanization: proof of principle and characterization of a planarian 5-HT receptor.</title>
+      <link>https://wheelern.github.io/publication/zamanian2012/</link>
+      <pubDate>Wed, 18 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://wheelern.github.io/publication/zamanian2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

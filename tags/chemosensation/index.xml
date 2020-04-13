@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chemosensation | Academic</title>
+    <link>https://wheelern.github.io/tags/chemosensation/</link>
+      <atom:link href="https://wheelern.github.io/tags/chemosensation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chemosensation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©NJ Wheeler 2020</copyright><lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wheelern.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Chemosensation</title>
+      <link>https://wheelern.github.io/tags/chemosensation/</link>
+    </image>
+    
+    <item>
+      <title>Genetic and functional diversification of chemosensory pathway receptors in mosquito-borne filarial nematodes</title>
+      <link>https://wheelern.github.io/publication/wheeler2020/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://wheelern.github.io/publication/wheeler2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helminth Chemosensation and Migration</title>
+      <link>https://wheelern.github.io/project/chemosensation/</link>
+      <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://wheelern.github.io/project/chemosensation/</guid>
+      <description>&lt;p&gt;This page is a work in progress!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

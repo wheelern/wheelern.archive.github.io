@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genomics | Academic</title>
+    <link>https://wheelern.github.io/tags/genomics/</link>
+      <atom:link href="https://wheelern.github.io/tags/genomics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Genomics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©NJ Wheeler 2020</copyright><lastBuildDate>Sun, 14 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wheelern.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Genomics</title>
+      <link>https://wheelern.github.io/tags/genomics/</link>
+    </image>
+    
+    <item>
+      <title>Helminth and Vector Genomics</title>
+      <link>https://wheelern.github.io/project/genomics/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://wheelern.github.io/project/genomics/</guid>
+      <description>&lt;p&gt;This page is a work in progress!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sequence and structural variation in the genome of the Biomphalaria glabrata embryonic (Bge) cell line</title>
+      <link>https://wheelern.github.io/publication/wheeler2018/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://wheelern.github.io/publication/wheeler2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional analysis of *Girardia tigrina* transcriptome seeds pipeline for anthelmintic target discovery.</title>
+      <link>https://wheelern.github.io/publication/wheeler2015/</link>
+      <pubDate>Tue, 20 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://wheelern.github.io/publication/wheeler2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

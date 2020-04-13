@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Snail | Academic</title>
+    <link>https://wheelern.github.io/tags/snail/</link>
+      <atom:link href="https://wheelern.github.io/tags/snail/index.xml" rel="self" type="application/rss+xml" />
+    <description>Snail</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©NJ Wheeler 2020</copyright><lastBuildDate>Thu, 19 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wheelern.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Snail</title>
+      <link>https://wheelern.github.io/tags/snail/</link>
+    </image>
+    
+    <item>
+      <title>Snail Transgenesis</title>
+      <link>https://wheelern.github.io/project/snail_transgenesis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://wheelern.github.io/project/snail_transgenesis/</guid>
+      <description>&lt;p&gt;Schistosomiasis is a widespread and burdensome neglected tropical disease (NTD) that inflicts massive morbidity on the world’s poorest and most vulnerable people. This infection, caused by parasitic flatworms of the genus &lt;em&gt;Schistosoma&lt;/em&gt;, is increasingly controlled by mass drug administration (MDA) of praziquantel (PZQ), which is effective at quickly clearing adults from the patient’s vasculature. Regional and nationalized intervention through MDA has substantially reduced the global burden of schistosomiasis in the past +20 years, but a prevalence of nearly 200 million remains. The 2012 London Declaration on NTDs initiated a collaboration between public and private entities, including Merck KGaA, that set a goal to control schistosomiasis by 2020. This will primarily be achieved by the spread and optimization of MDA, but recent models show that the collaboration will likely fall short unless MDA is greatly expanded in high prevalence areas. Such an expansion would increase the already significant fear of the proliferation of PZQ resistance in local &lt;em&gt;Schistosoma&lt;/em&gt; spp. populations.&lt;/p&gt;
+&lt;p&gt;These fears scaffold the argument that schistosomiasis control ought to have an integrated, multifaceted approach that includes MDA, education, and vector control. Control of the freshwater snail vector of Schistosoma spp., including species of the genera &lt;em&gt;Biomphalaria&lt;/em&gt;, &lt;em&gt;Bulinus&lt;/em&gt;, and &lt;em&gt;Oncomelania&lt;/em&gt;, has classically been performed by biological agents, molluscicidal treatment, or habitat reduction.&lt;/p&gt;
+&lt;p&gt;The advent of genome editing technology has enabled the development of new methods of vector control. Using CRISPR/Cas9 genome editing in combination with the endogenous homologous repair mechanism and incorporation of synthetic repair templates, gene drives can be designed to spread synthetic constructs throughout a vector population through super-Mendelian inheritance. If the chosen trait is deleterious for the organism, the trait will be driven to fixation and the population will slowly crash (population suppression). Likewise, if the trait confers resistance to the pathogen such that it cannot properly develop, the pathogen will be unable to continue its life cycle and have its infective stage transmitted to the human host (population replacement). These ideas have primarily been promulgated as a control measure for pests or insects that bear parasitic and viral pathogens, but the idea has recently been suggested as a new measure for snail control. Unfortunately, the methods for transgenesis that are necessary for such techniques are not standard in snails.&lt;/p&gt;
+&lt;p&gt;The Merck Global Health Institute, in collaboration with researchers from the University of Wisconsin-Madison and other consultants, has undertaken the task of developing the tools to achieve the aim of genome editing in &lt;em&gt;B. glabrata&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
