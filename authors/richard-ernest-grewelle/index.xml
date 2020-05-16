@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Nic Wheeler</title>
-    <link>https://wheelern.github.io/publication_types/2/</link>
-      <atom:link href="https://wheelern.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
-    <description>2</description>
+    <title>Richard Ernest Grewelle | Nic Wheeler</title>
+    <link>https://wheelern.github.io/authors/richard-ernest-grewelle/</link>
+      <atom:link href="https://wheelern.github.io/authors/richard-ernest-grewelle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Richard Ernest Grewelle</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©NJ Wheeler 2020</copyright><lastBuildDate>Thu, 19 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://wheelern.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>2</title>
-      <link>https://wheelern.github.io/publication_types/2/</link>
+      <title>Richard Ernest Grewelle</title>
+      <link>https://wheelern.github.io/authors/richard-ernest-grewelle/</link>
     </image>
     
     <item>
@@ -34,38 +34,6 @@
 &lt;h1 id=&#34;supplementary-notes-can-be-added-here-including-code-and-mathhttpssourcethemescomacademicdocswriting-markdown-latex&#34;&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/h1&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Sequence and structural variation in the genome of the Biomphalaria glabrata embryonic (Bge) cell line</title>
-      <link>https://wheelern.github.io/publication/wheeler2018/</link>
-      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://wheelern.github.io/publication/wheeler2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tissue-specific transcriptome analyses provide new insights into GPCR signalling in adult Schistosoma mansoni</title>
-      <link>https://wheelern.github.io/publication/hahnel2018/</link>
-      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://wheelern.github.io/publication/hahnel2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Functional analysis of Girardia tigrina transcriptome seeds pipeline for anthelmintic target discovery.</title>
-      <link>https://wheelern.github.io/publication/wheeler2015/</link>
-      <pubDate>Tue, 20 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://wheelern.github.io/publication/wheeler2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Novel RNAi-mediated approach to G protein-coupled receptor deorphanization: proof of principle and characterization of a planarian 5-HT receptor.</title>
-      <link>https://wheelern.github.io/publication/zamanian2012/</link>
-      <pubDate>Wed, 18 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>https://wheelern.github.io/publication/zamanian2012/</guid>
-      <description></description>
     </item>
     
   </channel>
