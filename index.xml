@@ -5,7 +5,7 @@
     <link>https://wheelern.github.io/</link>
       <atom:link href="https://wheelern.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Nic Wheeler</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©NJ Wheeler 2020</copyright><lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©NJ Wheeler 2020</copyright><lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://wheelern.github.io/images/icon_hu0443e55e4fad092805e43727a133c03f_18120_512x512_fill_lanczos_center_2.png</url>
       <title>Nic Wheeler</title>
@@ -13,9 +13,71 @@
     </image>
     
     <item>
+      <title>Helminth and Vector Genomics</title>
+      <link>https://wheelern.github.io/project/genomics/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://wheelern.github.io/project/genomics/</guid>
+      <description>&lt;p&gt;Reference genomes and reliable gene predictions are the core of contemporary molecular biology. Recent years have seen a concerted, global effort to increase the availability of reference genomes for parasitic worms and their vectors. 
+&lt;a href=&#34;https://parasite.wormbase.org/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WormBase ParaSite&lt;/a&gt; and 
+&lt;a href=&#34;https://beta.vectorbase.org/vectorbase.beta/app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VectorBase&lt;/a&gt; now house hundreds of worm, mosquito, and snail reference genomes, as well as a considerable amount of data from associated cell lines, wild isolates, and lab strains.&lt;/p&gt;
+&lt;p&gt;Much of my work is facilitated by the community&amp;rsquo;s investment in these data sources, so it is right for me to likewise contribute, not only for the advancement of my own research interests, but for the utilization of the field as a whole. I have been involved in international consortiums and have lead lab projects to increase to amount and quality of these genomic sources. Contributions, publications, and public access links are listed below.&lt;/p&gt;
+&lt;h3 id=&#34;helminths&#34;&gt;Helminths&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Helminth Genomes Project&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Manuscript: 
+&lt;a href=&#34;https://wheelern.github.io/publication/coghlan2019/&#34;&gt;Comparative genomics of the major parasitic worms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Database: 
+&lt;a href=&#34;https://parasite.wormbase.org/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WormBase ParaSite&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Dirofilaria immitis&lt;/strong&gt;&lt;/em&gt; (Dog heartworm)
+&lt;ul&gt;
+&lt;li&gt;Manuscript: Forthcoming&lt;/li&gt;
+&lt;li&gt;Raw Data: PRJNA640410 (currently embargoed)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Brugia malayi&lt;/strong&gt;&lt;/em&gt; (Etiological agent of human lymphatic filariasis)
+&lt;ul&gt;
+&lt;li&gt;Manuscript: Forthcoming&lt;/li&gt;
+&lt;li&gt;Raw Data: 
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/bioproject/548902&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PRJNA548902&lt;/a&gt; and more on the way&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;vectors&#34;&gt;Vectors&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Biomphalaria glabrata&lt;/strong&gt;&lt;/em&gt; (snail vector of schistosomes)
+&lt;ul&gt;
+&lt;li&gt;Manuscript: 
+&lt;a href=&#34;https://wheelern.github.io/publication/wheeler2018/&#34;&gt;Sequence and structural variation in the genome of the &lt;em&gt;Biomphalaria glabrata&lt;/em&gt; embryonic (Bge) cell line&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Raw Data: 
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA434565&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PRJNA434565&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Database: 
+&lt;a href=&#34;https://www.vectorbase.org/popbio/project/?id=VBP0000226&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VectorBase&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Helminth Sensation and Migration</title>
+      <link>https://wheelern.github.io/project/chemosensation/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://wheelern.github.io/project/chemosensation/</guid>
+      <description>&lt;p&gt;Sensation of a parasite&amp;rsquo;s environment is absolutely critical to successful transmission and continuation of the parasite&amp;rsquo;s life cycle. Vector-borne helminths like schistosomes and filarial nematodes have precisely evolved neurologic and receptor modalities that allow for the integration of multimodal afferent information, such as a worm&amp;rsquo;s chemical, physical, and thermal environment.&lt;/p&gt;
+&lt;p&gt;For instance, mosquito-borne filarial worm larvae are ingested during a blood meal by a mosquito, after which the larvae must quickly escape the blood in order to elude the innate immunity in the mosquito midgut. Worms leave the midgut and enter the hemocoel, and then become intracellular in either the thoracic musculature or Malphigian tubules, depending on species. After development, they migrate to the head region and proboscis in preparation for departure during the next blood meal.&lt;/p&gt;
+&lt;p&gt;Schistosomes, on the other hand, play a more active role during larval infections. Miracidia hatch from eggs in water, and they have a limited amount of energy stored to use for the detection and invasion of competent snails. Likewise, transformed cercaria depart the snail and must infect a compatible mammal, using chemical and thermal cues along the way.&lt;/p&gt;
+&lt;p&gt;These examples are just a snippet of the migrations that filarial worms and schistosomes perform during their life cycles; further chemotaxis is likely performed once in their human hosts. How do the worms do it? They are relatively simple creatures, yet they reliably and repeatedly perform these heroic migrations. This is one of the driving questions for my research.&lt;/p&gt;
+&lt;p&gt;While these migrations are endlessly fascinating, elucidating the molecular receptors that are involved in environmental sensation could also lead to creative ways for approaching parasite control. What if we designed a &amp;ldquo;scentless&amp;rdquo; snail that was hidden from miracidia? What if we could synthesize a salve that could confuse infective filarial and schistosome larvae? Admittedly these would be ambitious projects, but elimination of these debilitating and widespread diseases may require such ambition&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Genetic and functional diversification of chemosensory pathway receptors in mosquito-borne filarial nematodes</title>
       <link>https://wheelern.github.io/publication/wheeler2020/</link>
-      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://wheelern.github.io/publication/wheeler2020/</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -99,15 +161,6 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
-      <title>Helminth and Vector Genomics</title>
-      <link>https://wheelern.github.io/project/genomics/</link>
-      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://wheelern.github.io/project/genomics/</guid>
-      <description>&lt;p&gt;This page is a work in progress!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Sequence and structural variation in the genome of the Biomphalaria glabrata embryonic (Bge) cell line</title>
       <link>https://wheelern.github.io/publication/wheeler2018/</link>
       <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
@@ -136,15 +189,6 @@ Supplementary notes can be added here, including [code and math](https://sourcet
       <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://wheelern.github.io/talk/schisto_symposium2018/</guid>
       <description>&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTxTTa-EixbpWBv8G_R5vHRRKtGv26brnbaf2XpUbTQnsp1-F_hI-Ss9GxvNXpIhqsR3yqX89AYa64i/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;640&#34; height=&#34;389&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Helminth Chemosensation and Migration</title>
-      <link>https://wheelern.github.io/project/chemosensation/</link>
-      <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://wheelern.github.io/project/chemosensation/</guid>
-      <description>&lt;p&gt;This page is a work in progress!&lt;/p&gt;
 </description>
     </item>
     
@@ -229,7 +273,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
-      <title>Sequence and structural variation in the genome of the Biomphalaria glabrata embryonic (Bge) cell line</title>
+      <title>Novel RNAi-mediated approach to G protein-coupled receptor deorphanization: proof of principle and characterization of a planarian 5-HT receptor.</title>
       <link>https://wheelern.github.io/publication/zamanian2012/</link>
       <pubDate>Wed, 18 Jul 2012 00:00:00 +0000</pubDate>
       <guid>https://wheelern.github.io/publication/zamanian2012/</guid>
